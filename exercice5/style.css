@@ -1,0 +1,8 @@
+p {
+    background-color: silver;
+    width: 10%;
+    border-radius: 80%; 
+    text-align: center;
+    box-shadow: 100px 100px 100px 100px red ;
+    
+}
